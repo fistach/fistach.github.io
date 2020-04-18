@@ -69,4 +69,5 @@
         //console.log("Brązowy: " + brazowyNapis);
         document.getElementById("textelement4").innerHTML = "brązowy: " + brazowyNapis;
 
-    };
+    }
+    
