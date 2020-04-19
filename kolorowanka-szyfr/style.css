@@ -2,7 +2,7 @@
             border-collapse: collapse;
             border-spacing: 0;
         }
-        
+
         .tg td {
             font-family: Arial, sans-serif;
             font-size: 14px;
@@ -13,7 +13,7 @@
             word-break: normal;
             border-color: black;
         }
-        
+
         .tg th {
             font-family: Arial, sans-serif;
             font-size: 14px;
@@ -25,14 +25,15 @@
             word-break: normal;
             border-color: black;
         }
-        
+
         .tg .tg-jpc1 {
             font-size: 10px;
             text-align: left;
             vertical-align: top
         }
-        
+
         .tg .tg-0lax {
             text-align: left;
-            vertical-align: top
+            vertical-align: top;
+            caret-color: transparent;
         }
